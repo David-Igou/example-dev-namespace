@@ -1,0 +1,4 @@
+resources:
+  - allow-ingress-traffic-networkpolicy.yaml
+  - mynamespace-namespace.yaml
+  - objectquota-resourcequota.yaml
